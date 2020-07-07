@@ -21,3 +21,6 @@
 ##### Tải về: https://github.com/GamerSoiCon/ParticlesShapeVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
 ```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
+
+# Youtube
+[![ĐĂNG KÍ ỦNG HỘ TUI ĐI :<](https://img.youtube.com/vi/6y-fUhQnfIc/0.jpg)](https://youtu.be/6y-fUhQnfIc "ĐĂNG KÍ ỦNG HỘ TUI ĐI :<")
